@@ -1,0 +1,44 @@
+všechny ostatní soubory jsou urèené i pro úèastníky, tohle úèastníci èíst nemusí 
+je to trochu chaotické, jak jsem to vykopíroval z rùzných míst 
+
+## Cíle nového systému:  
+- motivace úèastníkù, jejich samostatná práce a rychlý postup
+- eliminovat lidi, kteøí tam sedí (a žvaní) a nic nedìlají -> nic jim to nedává  
+
+## Nutné parametry lekcí
+
+- všechny parametry lekce si rozhoduje lektor a schvaluje Mirek B. (hlavnì kvùli øešení kolizí a návazností lekcí, dostupnost vybavení a pod.)
+- (výstižný) název 
+- **OBSAH LEKCE**, alespoò anotace týden pøedem, 
+nejpozdìji na lekci pøíklady a úkoly pro samostatnou práci + ideálnì text k lekci, vše ideálnì v LaTeXu (pro možnost zaøazení do _Dokumentace)
+- podmínky pro pøístup na lekci (návaznost na pøedchozí, viz také Graf lekcí)
+- kolik lidí max. (napø. pøednáška [tøeba o pøehledu soutìží]- 30 lidí; programování max. 6 lidí, pájení max. 12 lidí)
+- èas lekce od - do (délka max. 45 minut?)
+- za den mùže být více lekcí, podle jejich délky; lekce pro srovnatelné zájemce (zaèáteèníci vs. pokroèilí) se nesmí pøekrývat a bude mezi nimi pøestávka 
+- podmínky pro uznání lekce (pouze úèast/splnìní úkolù/znalost pojmù z textu k lekci/ ... ) pøitom splnìní úkolù mùže a nemusí být vázáno na úèast na lekci 
+- volitelné/další podmínky: napø. vlastní notebook s už nainstalovaným programem, pøístup pouze pro zapsané úèastníky (napø. exkurze do Fablabu) 
+
+Lekci mùže vést více vedoucích. 
+
+## Obecné
+ 
+- z Grafu lekcí bude jasné, co se mají nauèit pro tu kterou soutìž ( to se musí dodìlat) 
+- Vedoucí (abecednì): Petr B. (externì), Tom R., Petr Š., Honza Š., Tom V., hlavní vedoucí Mirek B.
+
+- jde o **první návrh**, není tam tøeba, že pro Toy Clean Up se silnì hodí Pixy nebo jiná kamera + lekce pro její ovládání, øada senzorù, øada vìcí z programování, Eagle, 3D tisk, Fablab, a pod.; totéž se týká i grafu lekcí 
+
+- v grafu lekcí je vyznaèena návaznost, pøitom povinné absovování pøedchozí lekce je vyznaèeno èervenì, hodnì doporuèené oranžovì, doporuèené zelenì, ostatní bude èernì 
+
+Následují abecednì øazené osnovy k jednotivým bodùm (u všech budou dopøedu nebo na lekci oznámené úkoly pro samostatnou práci, které musí úèastník pøevést/zvládnout). Zaènìte prosím pøemýšlet, které byste chtìli vést (mùžete se klidnì dublovat): 
+
+- (ideál): po skonèení lekce umí vyøešit tyto úkoly ...
+
+----------------------
+## Vyøešit: 
+- prostøedí, kde se budou pøihlašovat
+- aby mohli úèastníci dávat požadavky na lekce - nebo staèí øíct vedoucím? 
+
+-- Požadavky: - dostupnost pøes mobil 
+-- možnost zobrazení parametrù lekcí, vidìt, kdo už je pøihlášený
+- prostøedí pro graf lekcí -> první návrh draw.io je v pøíloze  
+- další lekce - viz výše 
